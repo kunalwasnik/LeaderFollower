@@ -27,5 +27,15 @@ Follower Bot Tasks
 3. Esp8266 send the receiving data command using uart to the tiva present on follower bot.
 4. Following based on ir sensor values
 
+Pin Configuration:
+
+Motor
+Motor1 : PB7 , PB6
+Motor2 : PE4 , PE5
+
+Transmission
+Rx : PD6
+Tx : PD7
+
 
 Reference : https://github.com/agshubhs/Swarm-Robotics-on-TIVA-Board/tree/master
