@@ -26,3 +26,6 @@ Follower Bot Tasks
 2. Receiving Data: The data sent by leader esp is received here.
 3. Esp8266 send the receiving data command using uart to the tiva present on follower bot.
 4. Following based on ir sensor values
+
+
+Reference : https://github.com/agshubhs/Swarm-Robotics-on-TIVA-Board/tree/master
